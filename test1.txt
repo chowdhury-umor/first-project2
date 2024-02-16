@@ -1,0 +1,11 @@
+#include<stdio.h>
+void message(){
+
+     printf("Hello!! I am from inside of a function\n");
+
+}
+ int main(){
+     message();
+
+return 0;
+ }
